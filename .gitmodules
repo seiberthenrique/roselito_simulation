@@ -13,3 +13,6 @@
 [submodule "src/roselito_navigation"]
 	path = src/roselito_navigation
 	url = git@github.com-henrique:ros2amr/roselito_navigation.git
+[submodule "src/roselito_commons"]
+	path = src/roselito_commons
+	url = git@github.com-henrique:ros2amr/ros_commons.git
