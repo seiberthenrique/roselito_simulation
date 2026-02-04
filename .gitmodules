@@ -16,3 +16,6 @@
 [submodule "src/roselito_commons"]
 	path = src/roselito_commons
 	url = git@github.com-henrique:ros2amr/ros_commons.git
+[submodule "src/roselito_interface"]
+	path = src/roselito_interface
+	url = git@github.com-henrique:seiberthenrique/roselito_interface.git
